@@ -1,0 +1,11 @@
+/--------------------------------------------------\
+				  Historique Graph
+					 12/02/2018
+					     VDh
+\--------------------------------------------------/
+
+
+#Création de la base solide
+CREATE (Energie:std { name: 'Energie' , source: 'https://fr.wikipedia.org/wiki/%C3%89nergie'})-[r:decoule]->(Produire:std { name: 'Produire' ,source: 0}),
+		(Energie)-[r_1:pour]->(Consomer:std { name: 'Consommer' ,source: 0}),
+		(Energie)-[r_2:peut]->(Stocker:std { name: 'Stocker', source:0})

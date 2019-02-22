@@ -1,0 +1,45 @@
+/--------------------------------------------------\
+					Méthode Graph
+					 12/02/2018
+					     VDh
+\--------------------------------------------------/
+
+Introduction
+ 	- Création d'une structure fixe renseigné dans un graph RDF
+ 	- Pas vrmt une ontologie mais on peut définir un certain nombre de caractéristique
+
+
+Définition des noeuds :
+
+Un noeud c'est une classe qui doit avoir au moins une source attachée et une date de rentrée en base
+	
+	- Energie: c'est le noeud centrale où tout se relie.
+	- Métric: C'est une valeur litérale améliorée. Dans notre problématique, on doit forcément augmenter un litéral par une date et une source
+	- Moyen de production: C'est un noeud qui caractérise moyen de production. (il peut caractériser un moyen de production lui même)
+				- propriété: pilotable: True/False
+				- propriété: facteur de charge: le facteur de charge (voir def Wikipedia) le facteur de charge est un noeud métric. Donc quand vous le renseignez
+				dans la base vous devez d'abord créer la métric dans la feuille métric, puis prendre le nom et indiquer le nom dans la colonne facteur de charge 
+				- propriété: 
+	- Facteur de charge: sous classe de métric
+	- Matière première: Noeud qui est caractérisé par :
+				- propriété: Fossile: True / False
+				- propriété: abondance:  % de presence sur terre
+				- propriété: Pays producteur(s) si il y en a plusieurs la proportions importée (ou utilisée en France) doit être écrite dans la liason 
+	-Pays producteur: Noeud qui décrit un pays qui produit des choses. Ca peut être des matières premières ou des choses transformées genre des panneaux solaires
+
+_
+Méthode pour remplir:
+
+En soit je peux remplir moi à la main mais j'ai envie d'utiliser des gens qui vont aussi participer pour remplir la base et aggréger du contenu.
+Pour ça, 1)soit je donne accès à la base de données en ligne et ils écrivent du cypher pour remplir.
+		 2)soit je donne accès à un Google sheets où les champs à remplir sont indiqués et le mec à juste à remplir ses trucs
+
+Dans le deuxième cas y a quand même un sujet à savoir suivant le type de noeud que le mec veut remplir, il doit donner des infos différentes
+
+########################
+A FAIRE
+########################
+
+
+	- Vérifier si des ontologies existent. Eventuellement les compléter.
+	- Vérifier si des entrepots de données existent

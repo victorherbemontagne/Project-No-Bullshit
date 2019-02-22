@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>D'herbemont subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="energie" title="energie">
+            <outline type="rss" text="All press releases" title="All press releases" xmlUrl="https://www.edf.fr/tous-les-communiques/feed" htmlUrl="https://www.edf.fr/tous-les-communiques/feed"/>
+            <outline type="rss" text="Energy Cities, Local authorities in energy transition." title="Energy Cities, Local authorities in energy transition." xmlUrl="http://www.energy-cities.eu/spip.php?page=rss_articles_francais" htmlUrl="http://www.energy-cities.eu/"/>
+            <outline type="rss" text="{Sciences²}" title="{Sciences²}" xmlUrl="http://huet.blog.lemonde.fr/feed/" htmlUrl="http://huet.blog.lemonde.fr"/>
+            <outline type="rss" text="ADEME Presse" title="ADEME Presse" xmlUrl="http://feeds.feedburner.com/ademe-presse" htmlUrl="https://presse.ademe.fr"/>
+            <outline type="rss" text="ADEME - Les publications de l'ADEME" title="ADEME - Les publications de l'ADEME" xmlUrl="http://www2.ademe.fr/rss/RSS_ADEME_12441.xml" htmlUrl="https://www.ademe.fr/rss-editions-ademe"/>
+            <outline type="rss" text="Datanergy" title="Datanergy" xmlUrl="http://www.datanergy.fr/feed/" htmlUrl="https://www.datanergy.fr"/>
+            <outline type="rss" text="Les Echos - actualité sur l'énergie et environnement" title="Les Echos - actualité sur l'énergie et environnement" xmlUrl="http://syndication.lesechos.fr/rss/rss_energie-environnement.xml" htmlUrl="https://www.lesechos.fr/industrie-services/energie-environnement/"/>
+            <outline type="rss" text="Jean-Marc Jancovici" title="Jean-Marc Jancovici" xmlUrl="https://jancovici.com/feed/" htmlUrl="https://jancovici.com"/>
+            <outline type="rss" text="Oil Man" title="Oil Man" xmlUrl="http://petrole.blog.lemonde.fr/feed/" htmlUrl="http://petrole.blog.lemonde.fr"/>
+            <outline type="rss" text="L'EnerGeek" title="L'EnerGeek" xmlUrl="http://lenergeek.com/feed/rss/" htmlUrl="https://lenergeek.com"/>
+            <outline type="rss" text="Ministère de la Transition écologique et solidaire - actualités" title="Ministère de la Transition écologique et solidaire - actualités" xmlUrl="http://www.developpement-durable.gouv.fr/rss_actualites.html" htmlUrl="http://www.ecologique-solidaire.gouv.fr/rss_actualites.xml"/>
+            <outline type="rss" text="carbone4.com" title="carbone4.com" xmlUrl="http://www.carbone4.com/fr/rss.xml" htmlUrl="http://www.carbone4.com"/>
+            <outline type="rss" text="Energie – Enerzine" title="Energie – Enerzine" xmlUrl="http://www.enerzine.com/rss2energies.xml" htmlUrl="http://www.enerzine.com"/>
+            <outline type="rss" text="Electricité – Enerzine" title="Electricité – Enerzine" xmlUrl="http://feeds2.feedburner.com/enerzine-electricite" htmlUrl="http://www.enerzine.com"/>
+            <outline type="rss" text="ASN - Actualités de l'Autorité de sûreté nucléaire" title="ASN - Actualités de l'Autorité de sûreté nucléaire" xmlUrl="http://www.asn.fr/rss/feed/actu_asn" htmlUrl="https://www.asn.fr/"/>
+            <outline type="rss" text="Toute l'actualité de l'ADEME" title="Toute l'actualité de l'ADEME" xmlUrl="http://www2.ademe.fr/rss/RSS_ADEME_16262.xml" htmlUrl="https://www.ademe.fr/rss-editions-ademe"/>
+            <outline type="rss" text="Reporterre, le quotidien de l'écologie" title="Reporterre, le quotidien de l'écologie" xmlUrl="http://www.reporterre.net/spip.php?page=backend" htmlUrl="https://reporterre.net/"/>
+            <outline type="rss" text="The Shift Project" title="The Shift Project" xmlUrl="https://theshiftproject.org/feed/" htmlUrl="https://theshiftproject.org"/>
+            <outline type="rss" text="Actualités" title="Actualités" xmlUrl="http://www.gdfsuez.com/journalistes/breves/feed" htmlUrl="https://www.engie.com"/>
+            <outline type="rss" text="CGEDD (Conseil général de l'environnement et du développement durable) - Ministère de la Transition écologique et solidaire" title="CGEDD (Conseil général de l'environnement et du développement durable) - Ministère de la Transition écologique et solidaire" xmlUrl="http://www.cgedd.developpement-durable.gouv.fr/spip.php?page=backend-actu" htmlUrl="http://www.cgedd.developpement-durable.gouv.fr/"/>
+            <outline type="rss" text="Le Monde de l'Energie" title="Le Monde de l'Energie" xmlUrl="http://www.lemondedelenergie.com/feed/" htmlUrl="https://www.lemondedelenergie.com"/>
+            <outline type="rss" text="Énergies : Toute l'actualité sur Le Monde.fr." title="Énergies : Toute l'actualité sur Le Monde.fr." xmlUrl="http://www.lemonde.fr/rss/tag/energies.xml" htmlUrl="https://www.lemonde.fr/energies/rss_full.xml"/>
+            <outline type="rss" text="Connaissance des Énergies - TOUTES LES ÉNERGIES EN LIBRE ACCÈS" title="Connaissance des Énergies - TOUTES LES ÉNERGIES EN LIBRE ACCÈS" xmlUrl="http://www.connaissancedesenergies.org/rss.xml" htmlUrl="https://www.connaissancedesenergies.org/rss.xml"/>
+            <outline type="rss" text="Flux RSS" title="Flux RSS" xmlUrl="http://www.energie.sia-partners.com/flux-rss" htmlUrl="http://www.energie.sia-partners.com/flux-rss"/>
+            <outline type="rss" text="Actu-SmartGrids" title="Actu-SmartGrids" xmlUrl="http://www.actu-smartgrids.com/feed/" htmlUrl="http://www.actu-smartgrids.com"/>
+            <outline type="rss" text="Chroniques de l'Anthropocène" title="Chroniques de l'Anthropocène" xmlUrl="http://alaingrandjean.fr/feed/" htmlUrl="https://alaingrandjean.fr"/>
+            <outline type="rss" text="Enerzine.com - l'actualité énergétique au quotidien" title="Enerzine.com - l'actualité énergétique au quotidien" xmlUrl="http://feeds2.feedburner.com/enerzine-lesdernieresbreves" htmlUrl="http://www.enerzine.com"/>
+            <outline type="rss" text="L'Observatoire des Territoires" title="L'Observatoire des Territoires" xmlUrl="http://www.observatoire-des-territoires.gouv.fr/observatoire-des-territoires/fr/rss.xml" htmlUrl="http://www.observatoire-des-territoires.gouv.fr/observatoire-des-territoires/fr/rss.xml"/>
+            <outline type="rss" text="Mr Mondialisation" title="Mr Mondialisation" xmlUrl="https://mrmondialisation.org/feed/" htmlUrl="https://mrmondialisation.org"/>
+        </outline>
+        <outline text="yyy (team)" title="yyy (team)"/>
+    </body>
+</opml>
